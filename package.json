@@ -1,0 +1,16 @@
+{
+    "name": "m3.hide-working-files",
+    "title": "Hide Working Files",
+    "description": "Hide the working files panel in Brackets. Useful with Documents Toolbar extension",
+    "version": "0.0.1",
+    "author": "Kjell Bublitz <m3nt0r.de@gmail.com>",
+    "homepage": "https://github.com/m3nt0r/brackets-hide-working-files",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/m3nt0r/brackets-hide-working-files.git"
+    },
+    "engines": {
+        "brackets": ">=0.38.0"
+    },
+    "keywords": ["documents toolbar", "working files"]
+}
